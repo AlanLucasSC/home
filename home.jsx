@@ -3,7 +3,7 @@ import { connect } from 'react-redux'
 
 //import Layout from '../shared/container/layout/layout'
 
-import Layout from '../src/app/shared/container/layout/layout'
+import Layout from '../../src/app/shared/container/layout/layout'
 
 class Home extends React.Component {
 
